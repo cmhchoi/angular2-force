@@ -13,3 +13,5 @@ import { HeroesComponent } from './heroes/heroes.component';
 export class AppComponent {
   title = 'An Angular 2 Force Awakens';
 }
+
+console.log('gitgoing!!!');
